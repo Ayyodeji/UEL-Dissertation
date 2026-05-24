@@ -1,4 +1,4 @@
-# Early Diabetes Prediction — ML Pipeline (Chapter 4)
+# Early Diabetes Prediction — ML Pipeline
 
 Reproducible pipeline for the UEL dissertation: Pima (clinical) and UCI Early Stage (symptom/lifestyle) datasets, analysed **separately**.
 
@@ -24,8 +24,6 @@ python -m src.run_pipeline
 | `results/early_stage/` | Same for UCI early-stage dataset |
 | `figures/pima/` | EDA, confusion matrices, SHAP |
 | `figures/early_stage/` | EDA, confusion matrices, SHAP |
-
-Chapter 4 tables in the dissertation markdown are updated with baseline, hybrid, and feature-importance values after each run.
 
 ## Datasets
 
