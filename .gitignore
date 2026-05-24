@@ -3,6 +3,12 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
-results/
-figures/
 *.joblib
+
+# Dissertation text only (do not push)
+Hybrid Machine Learning Model for Early Diabetes Prediction Using Lifestyle and Clinical Data.md
+Hybrid Machine Learning Model for Early Diabetes Prediction Using Lifestyle and Clinical Data.pdf
+Hybrid Machine Learning Model for Early Diabetes Prediction Using Lifestyle and Clinical Data.docx
+UEL formatting.txt
+.txt
+~$*

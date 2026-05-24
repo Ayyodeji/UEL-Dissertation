@@ -27,17 +27,6 @@ python -m src.run_pipeline
 
 Chapter 4 tables in the dissertation markdown are updated with baseline, hybrid, and feature-importance values after each run.
 
-## Export PDF and Word
-
-```bash
-./scripts/export_dissertation.sh
-```
-
-Requires `pandoc` and `tectonic` (`brew install pandoc tectonic`). Outputs:
-
-- `Hybrid Machine Learning Model for Early Diabetes Prediction Using Lifestyle and Clinical Data.docx`
-- `Hybrid Machine Learning Model for Early Diabetes Prediction Using Lifestyle and Clinical Data.pdf`
-
 ## Datasets
 
 - Pima Indians Diabetes — OpenML data id **37** (768 rows; UCI id 34 is not importable via `ucimlrepo`)

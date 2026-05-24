@@ -1,0 +1,125 @@
+{
+  "encoding_map": {
+    "gender": {
+      "Female": 0,
+      "Male": 1
+    },
+    "polyuria": {
+      "Yes": 1,
+      "No": 0,
+      "yes": 1,
+      "no": 0
+    },
+    "polydipsia": {
+      "Yes": 1,
+      "No": 0,
+      "yes": 1,
+      "no": 0
+    },
+    "sudden_weight_loss": {
+      "Yes": 1,
+      "No": 0,
+      "yes": 1,
+      "no": 0
+    },
+    "weakness": {
+      "Yes": 1,
+      "No": 0,
+      "yes": 1,
+      "no": 0
+    },
+    "polyphagia": {
+      "Yes": 1,
+      "No": 0,
+      "yes": 1,
+      "no": 0
+    },
+    "genital_thrush": {
+      "Yes": 1,
+      "No": 0,
+      "yes": 1,
+      "no": 0
+    },
+    "visual_blurring": {
+      "Yes": 1,
+      "No": 0,
+      "yes": 1,
+      "no": 0
+    },
+    "itching": {
+      "Yes": 1,
+      "No": 0,
+      "yes": 1,
+      "no": 0
+    },
+    "irritability": {
+      "Yes": 1,
+      "No": 0,
+      "yes": 1,
+      "no": 0
+    },
+    "delayed_healing": {
+      "Yes": 1,
+      "No": 0,
+      "yes": 1,
+      "no": 0
+    },
+    "partial_paresis": {
+      "Yes": 1,
+      "No": 0,
+      "yes": 1,
+      "no": 0
+    },
+    "muscle_stiffness": {
+      "Yes": 1,
+      "No": 0,
+      "yes": 1,
+      "no": 0
+    },
+    "alopecia": {
+      "Yes": 1,
+      "No": 0,
+      "yes": 1,
+      "no": 0
+    },
+    "obesity": {
+      "Yes": 1,
+      "No": 0,
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "missing": {
+    "age": 0,
+    "gender": 0,
+    "polyuria": 0,
+    "polydipsia": 0,
+    "sudden_weight_loss": 0,
+    "weakness": 0,
+    "polyphagia": 0,
+    "genital_thrush": 0,
+    "visual_blurring": 0,
+    "itching": 0,
+    "irritability": 0,
+    "delayed_healing": 0,
+    "partial_paresis": 0,
+    "muscle_stiffness": 0,
+    "alopecia": 0,
+    "obesity": 0
+  },
+  "class_distribution": {
+    "1": 320,
+    "0": 200
+  },
+  "train_size": 416,
+  "test_size": 104,
+  "train_class_distribution": {
+    "1": 256,
+    "0": 160
+  },
+  "test_class_distribution": {
+    "1": 64,
+    "0": 40
+  },
+  "smote_applied": "True"
+}

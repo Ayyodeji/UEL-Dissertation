@@ -1,0 +1,6 @@
+rank,feature,importance_score,interpretation
+1,num__Glucose,0.3435,Rank 1 predictor for diabetes risk in this model.
+2,num__BMI,0.1992,Rank 2 predictor for diabetes risk in this model.
+3,num__Age,0.1249,Rank 3 predictor for diabetes risk in this model.
+4,num__Insulin,0.0998,Rank 4 predictor for diabetes risk in this model.
+5,num__DiabetesPedigreeFunction,0.0711,Rank 5 predictor for diabetes risk in this model.

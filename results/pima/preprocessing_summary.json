@@ -1,0 +1,35 @@
+{
+  "zeros_replaced": 652,
+  "zero_columns": [
+    "Glucose",
+    "BloodPressure",
+    "SkinThickness",
+    "Insulin",
+    "BMI"
+  ],
+  "missing_after_zero_fix": {
+    "Pregnancies": 0,
+    "Glucose": 5,
+    "BloodPressure": 35,
+    "SkinThickness": 227,
+    "Insulin": 374,
+    "BMI": 11,
+    "DiabetesPedigreeFunction": 0,
+    "Age": 0
+  },
+  "class_distribution": {
+    "0": 500,
+    "1": 268
+  },
+  "train_size": 614,
+  "test_size": 154,
+  "train_class_distribution": {
+    "0": 400,
+    "1": 214
+  },
+  "test_class_distribution": {
+    "0": 100,
+    "1": 54
+  },
+  "smote_applied": "True"
+}

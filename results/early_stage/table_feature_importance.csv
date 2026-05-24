@@ -1,0 +1,6 @@
+rank,feature,importance_score,interpretation
+1,num__polydipsia,0.2051,Rank 1 predictor for diabetes risk in this model.
+2,num__polyuria,0.2039,Rank 2 predictor for diabetes risk in this model.
+3,num__gender,0.1007,Rank 3 predictor for diabetes risk in this model.
+4,num__age,0.0907,Rank 4 predictor for diabetes risk in this model.
+5,num__sudden_weight_loss,0.0703,Rank 5 predictor for diabetes risk in this model.
